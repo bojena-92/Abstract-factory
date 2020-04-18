@@ -1,4 +1,4 @@
-package abstractfactory;
+package shoesabstractfactory;
 
 public class BrandTypes {
 	public static String fallen = "FALLEN";
