@@ -1,4 +1,4 @@
-package abstractfactory;
+package shoesabstractfactory;
 
 public class Vans implements Brand {
 
