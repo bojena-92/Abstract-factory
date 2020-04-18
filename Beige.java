@@ -1,4 +1,4 @@
-package skateshoesabstractfactory;
+package shoesabstractfactory;
 
 public class Beige implements Color {
 
