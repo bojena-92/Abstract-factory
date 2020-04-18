@@ -1,4 +1,4 @@
-package abstractfactory;
+package shoesabstractfactory;
 
 public class Fallen implements Brand {
 
